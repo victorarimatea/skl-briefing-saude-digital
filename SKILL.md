@@ -8,6 +8,7 @@ description: >
   Também deve ser ativada para pedidos de "resumo semanal" ou "resumo mensal" de saúde digital.
   Nunca responda esses pedidos sem antes executar esta skill.
   Esta skill depende da skill taxonomia-saude-digital — sempre carregar a taxonomia do GitHub antes de montar o briefing.
+version: "v1.0"
 ---
 
 # Briefing — Saúde Digital
