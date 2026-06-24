@@ -5,6 +5,20 @@ Campos obrigatórios: Tipo de alteração, Autorizado por, Exposição de motivo
 
 ---
 
+## v1.1 — 2026-06-24
+
+**Tipo de alteração:** Correção / Melhoria de documentação
+**Autorizado por:** Victor Leonardo Arimatea Queiroz — Diretor de Transformação Digital
+**Exposição de motivos:** README.md expandido de cartão de visita mínimo para documento de referência
+completo. O README anterior (v1.0) identificava o repositório mas não transmitia o valor real da skill:
+ausentes a descrição das seções do briefing, o diferencial de design (gestão de histórico contínuo,
+detecção de recorrência, ajuste automático de janela), os comandos avançados disponíveis ao usuário,
+e a tabela de dependências com M02. Qualquer agente ou humano acessando o repositório pela primeira
+vez não conseguia compreender o que a skill entrega sem ler o SKILL.md completo. Operação OP-E
+conduzida via S04, sessão de 2026-06-24.
+
+---
+
 ## v1.0 — 2026-06-04
 
 **Tipo de alteração:** Adição
